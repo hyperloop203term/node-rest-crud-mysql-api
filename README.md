@@ -10,19 +10,6 @@ node-rest-crud-mysql-api , You can lean easy follow this step
 </pre>
 
 <pre>
-For more information
  1. Create Node && Git Directory
-</pre>
-
- 2. Create API Node 
-    1.1 Data Preparation
-        id, name, email, create_at, update_at
-    
-        SQL Command 
-        
-
-
-
-    1.3 Connection Node db.js
-      
+ 
 </pre>
