@@ -11,10 +11,17 @@ node-rest-crud-mysql-api , You can lean easy follow this step
 
 <pre>
  SPTE 1. Create Node && Git Directory 
+         - git init -y
+         - install node js, and check version use >> node --version
+         - install node-modules , npm install express mysql mysql2 cors body-parsher
+         - git add .
+         - git commit -m 'reason why do that message'
+         - git push origin         
 </pre>
 
 <pre>
  SPTE 2. Create Database table and Insert data
+         
 </pre>
 
 <pre>
