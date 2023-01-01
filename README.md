@@ -10,6 +10,27 @@ node-rest-crud-mysql-api , You can lean easy follow this step
 </pre>
 
 <pre>
- 1. Create Node && Git Directory
- 
+ SPTE 1. Create Node && Git Directory 
 </pre>
+
+<pre>
+ SPTE 2. Create Database table and Insert data
+</pre>
+
+<pre>
+ SPTE 3. Connect Node Application to database in db.js
+</pre>
+
+<pre>
+ SPTE 4. Create Rest Apis and Add in index.js
+</pre>
+
+<pre>
+ SPTE 5. POSMAN used for cheking message
+</pre>
+
+<pre>
+ Step 6 – Start Development Server
+</pre>
+
+
