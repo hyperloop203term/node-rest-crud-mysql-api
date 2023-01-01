@@ -178,9 +178,11 @@ node-rest-crud-mysql-api , You can lean easy follow this step
        5.1 web 
            - View all data use   http://localhost:3333/users/
            - Query a record use  http://localhost:3333/user/1
-           - Post  a record use  http://localhost:3333/user/ [data package]
+           - Post  a record use  http://localhost:3333/user/   [data package]
+           - Update a record use  http://localhost:3333/user/1 [data pakage]
 </pre>
-       ![rest-api](https://user-images.githubusercontent.com/121533968/210177669-b5ac59de-17f4-41d0-9854-03b88fa64014.jpg) 
+       ![rest-api](https://user-images.githubusercontent.com/121533968/210177781-4d3ff71e-2976-4f21-8f86-f82493778384.jpg)
+
        
 <pre>
        5.2 postman software
