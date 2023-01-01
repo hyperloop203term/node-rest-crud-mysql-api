@@ -187,10 +187,9 @@ node-rest-crud-mysql-api , You can lean easy follow this step
 <pre>
        5.2 postman software
 </pre>
+
        ![table_users](https://user-images.githubusercontent.com/121533968/210177979-2dd31fff-ab1c-4c86-9749-5e1103a74d59.jpg)
 
-<pre>
- Step 6 – Start Development Server
-</pre>
+       ![read-all-result](https://user-images.githubusercontent.com/121533968/210178081-59b9c88d-3ae7-433a-896a-9070624d2f2e.jpg)
 
 
