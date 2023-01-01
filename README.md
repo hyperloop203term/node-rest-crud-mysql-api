@@ -28,7 +28,8 @@ node-rest-crud-mysql-api , You can lean easy follow this step
     id         int(11)      NOT NULL,
     name       varchar(200) NOT NULL,
     address    varchar(200) NOT NULL,
-    created_at datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
+    created_at datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    update_at datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
   ALTER TABLE users ADD PRIMARY KEY (id);
   ALTER TABLE users MODIFY id int(11) NOT NULL AUTO_INCREMENT;
@@ -174,10 +175,14 @@ node-rest-crud-mysql-api , You can lean easy follow this step
 
 <pre>
  SPTE 5. we can user Web browser and POSMAN software for cheking node js message
-       5.1 web
-
-       5.2 postman software
+       5.1 web 
+           - View all data use   http://localhost:3333/users/
+           - Query a record use  http://localhost:3333/user/1
+           - Post  a record use  http://localhost:3333/user/ [data package]
+</pre>
        
+<pre>
+       5.2 postman software
 </pre>
 
 <pre>
