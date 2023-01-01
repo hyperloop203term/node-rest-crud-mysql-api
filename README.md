@@ -180,8 +180,9 @@ node-rest-crud-mysql-api , You can lean easy follow this step
            - Query a record use  http://localhost:3333/user/1
            - Post  a record use  http://localhost:3333/user/ [data package]
 </pre>
-       
+       ![rest-api](https://user-images.githubusercontent.com/121533968/210177669-b5ac59de-17f4-41d0-9854-03b88fa64014.jpg) 
 <pre>
+
        5.2 postman software
 </pre>
 
